@@ -1,0 +1,44 @@
+.iframe-container {
+     Overflow: hidden;
+     padding-top: auto;
+     position: relative;
+}
+
+.iframe-container iframe {
+    border: 0;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: auto;
+}
+.pre-load {
+    position:fixed;
+    top:0;
+    right:0;
+    left: 0;
+    bottom:0;
+    background: #fff;
+    z-index: 999999;
+    text-align: center;
+}
+
+.pre-load img {
+    position:absolute;
+    top: 10%;
+    right: 30%;
+    left: 37%;
+
+    width: 26%;
+    
+
+    
+    
+    
+
+    
+}
+/*--------------------------------------
+*********** START MEDIA ***********
+--------------------------------------*/
+
